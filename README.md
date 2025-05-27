@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kumarsiddharth166@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1KtbfF4Cl6jfDD2kUT6enERvCNXmtFY_f/view?usp=sharing)
+- 📄 Know about my experiences [Siddharth's_Resume](https://drive.google.com/file/d/1KtbfF4Cl6jfDD2kUT6enERvCNXmtFY_f/view?usp=sharing)
 
 - ⚡ Fun fact **Can turn a 404 into hope.**
 
