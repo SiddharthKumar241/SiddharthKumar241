@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siddharth Kumar</h1>
-<h3 align="center">Solving bugs faster than relatives solve your career plans..</h3>
+<h3 align="center">Code breaks, hope shakes, I Google anyway.</h3>
+
+
+<h3 align="center">🚀 Aspiring Developer | Student @ VIT | Bug-fixer in progress </h3>
 
 - 🔭 I’m currently working on [Anugrah](https://github.com/SiddharthKumar241/Anugrah.git)
 
