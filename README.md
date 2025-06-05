@@ -75,5 +75,11 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthkumar241&theme=default" alt="GitHub Streak" height="200"/>
 </p>
+<br>
+<h3 align="center">🐍 GitHub Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 <br><br>
