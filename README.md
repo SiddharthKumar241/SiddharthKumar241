@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siddharth Kumar</h1>
 <h3 align="center">Code breaks, hope shakes, I Google anyway.</h3>
 
-
 <h3 align="center">🚀 Aspiring Developer | Student @ VIT | Bug-fixer in progress </h3>
+
+<!-- Add bigger GIF after the Aspiring Developer section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Aspiring Developer GIF" width="400" height="400"/>
+</div>
 
 - 🔭 I’m currently working on [Anugrah](https://github.com/SiddharthKumar241/Anugrah.git)
 
@@ -69,5 +73,7 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=siddharthkumar241&show_icons=true&locale=en&theme=default&bg_color=ffffff" alt="GitHub Stats" height="200"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthkumar241&theme=default&background=ffffff" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthkumar241&theme=default" alt="GitHub Streak" height="200"/>
 </p>
+
+<br><br>
