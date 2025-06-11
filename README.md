@@ -5,7 +5,7 @@
 
 <!-- Add bigger GIF after the Aspiring Developer section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Aspiring Developer GIF" width="400" height="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1laG5vY2dsa3Z4d3d1eGh1ajBiZXBveTdmanMzd2d2a2V1MW02cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gz2y9ksvr7z4qu4AG2/giphy.gif" alt="Aspiring Developer GIF" width="400" height="400"/>
 </div>
 
 - 🔭 I’m currently working on [Anugrah](https://github.com/SiddharthKumar241/Anugrah.git)
