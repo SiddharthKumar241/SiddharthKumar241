@@ -1,15 +1,17 @@
-<div align="center" style="display: inline-flex; align-items: center; white-space: nowrap;">
-  <img 
-    src="https://media.giphy.com/media/ps8PHjL5SB9PoPkfVh/giphy.gif" 
-    alt="wave gif" width="40" height="40" 
-    style="vertical-align: middle; margin-right: 10px;" 
+<h1 align="center">
+  <img
+    src="https://media.giphy.com/media/ps8PHjL5SB9PoPkfVh/giphy.gif"
+    alt="wave gif"
+    width="40"
+    height="40"
+    style="vertical-align: middle; margin-right: 10px;"
   />
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=I'm+Siddharth+Kumar;Crafting+code+with+chaai+☕;Frontend+Ninja+%7C+Backend+Beast;MongoDB+Magician+%7C+Java+Enthusiast;Building+Apna+Adda+one+div+at+a+time" 
-    alt="Typing SVG" 
-    style="vertical-align: middle;" 
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=6000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=650&lines=I'm+Siddharth+Kumar;Crafting+code+with+chaai+☕;Frontend+Ninja+%7C+Backend+Beast;MongoDB+Magician+%7C+Java+Enthusiast;Building+Apna+Adda+one+div+at+a+time"
+    alt="Typing SVG"
+    style="vertical-align: middle;"
   />
-</div>
+</h1>
 
 <h3 align="center">Code breaks, hope shakes, I Google anyway.</h3>
 
