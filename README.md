@@ -16,7 +16,7 @@
 
 <h3 align="center">🚀 Aspiring Developer | Student @ VIT | Bug-fixer in progress </h3>
 
-<!-- Add bigger GIF after the Aspiring Developer section -->
+
 <div align="center">
   <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Aspiring Developer GIF" width="400" height="400" />
