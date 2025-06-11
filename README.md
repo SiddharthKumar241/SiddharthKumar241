@@ -1,8 +1,14 @@
+<div align="center" style="display: inline-block; margin-left: -20px;">
 <h1 align="center">
-  Hi 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZ3dHpramZ2aHN3NjVlMGczejZ2NXZ4YWlkdWNrMHBrdjg0aG8xOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ps8PHjL5SB9PoPkfVh/giphy.gif" alt="wave gif" width="40" height="40" />
-  I'm <span style="color:#4caf50;">Siddharth Kumar</span> 👨‍💻
+<!--   <img src="https://media.giphy.com/media/ps8PHjL5SB9PoPkfVh/giphy.gif" alt="wave gif" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=650&lines=I'm+Siddharth+Kumar;Crafting+code+with+chaai+☕;Frontend+Ninja+%7C+Backend+Beast;MongoDB+Magician+%7C+jQuery+Juggler;Building+Apna+Adda+one+div+at+a+time"
+    alt="Typing SVG"
+    style="vertical-align: middle;"
+  />
 </h1>
+</div>
+
 <h3 align="center">Code breaks, hope shakes, I Google anyway.</h3>
 
 <h3 align="center">🚀 Aspiring Developer | Student @ VIT | Bug-fixer in progress </h3>
