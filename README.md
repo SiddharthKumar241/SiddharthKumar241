@@ -1,14 +1,18 @@
 <div align="center" style="display: inline-block; margin-left: -20px;">
-<h1 align="center">
-  <img src="https://media.giphy.com/media/ps8PHjL5SB9PoPkfVh/giphy.gif" alt="wave gif" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" />
+<div align="center" style="display: inline-flex; align-items: center; white-space: nowrap;">
+  <img
+    src="https://media.giphy.com/media/ps8PHjL5SB9PoPkfVh/giphy.gif"
+    alt="wave gif"
+    width="30"
+    height="30"
+    style="display: block; margin-right: 5px;"
+  />
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=I'm+Siddharth+Kumar;Crafting+code+with+chaai+☕;Frontend+Ninja+%7C+Backend+Beast;MongoDB+Magician+%7C+Java+Enthusiast;Building+Apna+Adda+one+div+at+a+time"
     alt="Typing SVG"
-    style="vertical-align: middle;"
+    style="display: block;"
   />
-</h1>
 </div>
-
 <h3 align="center">Code breaks, hope shakes, I Google anyway.</h3>
 
 <h3 align="center">🚀 Aspiring Developer | Student @ VIT | Bug-fixer in progress </h3>
