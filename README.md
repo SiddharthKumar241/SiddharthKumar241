@@ -29,7 +29,7 @@
 
 - 🤝 I’m looking for help with [Apna_Adda](https://drive.google.com/file/d/1A1KIy30iSFgPt83Zw2cyRmGx9kT50s0u/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [https://siddharthcreates.netlify.app/](https://www.siddharthkumar.tech/)
+- 👨‍💻 All of my projects are available at [https://www.siddharthkumar.tech/](https://www.siddharthkumar.tech/)
 
 - 💬 Ask me about **DSA, Javascript, Java, Jquery, AJAX, React, MongoDB, Oracle**
 
