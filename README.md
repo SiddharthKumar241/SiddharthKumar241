@@ -14,7 +14,7 @@
 
 <h3 align="center">Code breaks, hope shakes, I Google anyway.</h3>
 
-<h3 align="center">🚀 Aspiring Developer | Student @ VIT | Bug-fixer in progress </h3>
+<h3 align="center">Aspiring Developer | Student @ VIT | Bug-fixer in progress </h3>
 
 
 <div align="center">
