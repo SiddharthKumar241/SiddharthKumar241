@@ -23,11 +23,11 @@
 </p>
 </div>
 
-- 🔭 I’m currently working on [Apna_Adda](https://github.com/SiddharthKumar241/Anugrah.git)
+- 🔭 I’m currently working on [Apna_Adda](https://github.com/SiddharthKumar241/Apna__Adda.git)
 
 - 🌱 I’m currently learning **Framework and courses**
 
-- 🤝 I’m looking for help with [Apna_Adda](https://drive.google.com/file/d/1A1KIy30iSFgPt83Zw2cyRmGx9kT50s0u/view?usp=sharing)
+- 🤝 I’m looking for help with [Apna_Adda](https://github.com/SiddharthKumar241/Apna__Adda.git)
 
 - 👨‍💻 All of my projects are available at [https://www.siddharthkumar.tech/](https://www.siddharthkumar.tech/)
 
