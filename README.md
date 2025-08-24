@@ -6,10 +6,11 @@
     height="40"
     style="vertical-align: middle; margin-right: 10px;"
   /> -->
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=I'm+Siddharth+Kumar;Crafting+code+with+chaai+☕;Frontend+Ninja+%7C+Backend+Beast;MongoDB+Magician+%7C+Java+Enthusiast;Building+Apna+Adda+one+div+at+a+time"
-    alt="Typing SVG"
-  />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=I'm+Siddharth+Kumar;I+speak+fluent+console.log();Frontend+Ninja+%7C+Backend+Beast;Committed+to+commit;Spelling+mistakes+in+code%3F+Feature%2C+not+bug;Keyboard+wizard%2C+syntax+sorcerer"
+  alt="Typing SVG"
+/>
+
 </h1>
 
 <h3 align="center">Code breaks, hope shakes, I Google anyway.</h3>
