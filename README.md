@@ -6,10 +6,13 @@
     height="40"
     style="vertical-align: middle; margin-right: 10px;"
   /> -->
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=I'm+Siddharth+Kumar;I+speak+fluent+console.log();Frontend+Ninja+%7C+Backend+Beast;Committed+to+commit;Spelling+mistakes+in+code%3F+Feature%2C+not+bug;Keyboard+wizard%2C+syntax+sorcerer"
-  alt="Typing SVG"
-/>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=I'm+Siddharth+Kumar;I+speak+fluent+console.log();Frontend+Ninja+%7C+Backend+Beast;Committed+to+commit;Spelling+mistakes+in+code%3F+Feature%2C+not+bug;Keyboard+wizard%2C+syntax+sorcerer" 
+    alt="Typing SVG" 
+    style="max-width: 100%; height: auto;" 
+  />
+</p>
 
 </h1>
 
