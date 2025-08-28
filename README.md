@@ -23,7 +23,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Aspiring Developer GIF" width="400" height="400" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY0MDMzNzMsIm5iZiI6MTc1NjQwMzA3MywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODI4VDE3NDQzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1NmUwNzczOTU4ZDdhZTgyOWNhOGZhZmU0MTdlZTBhYTM4MDIyOTRlMjExYzYzMGU0YTk4NGNmNTc5OGY0YWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nZk_y8PTSSMW8SoHZ9AojhnD8a0O8z3D9MZk5QD7Jy8" alt="Aspiring Developer GIF" width="400" height="400" />
 </p>
 </div>
 
